@@ -9,8 +9,8 @@
     "test": "gulp test"
   },
   "dependencies": {
-    "body-parser": "^1.8.2",
-    "express": "^4.9.3",
+    "body-parser": "^2.1.0",
+    "express": "^5.1.0",
     "morgan": "^1.1.1",
     "serve-favicon": "^2.0.1"
   },
